@@ -15,18 +15,18 @@ const Project = () =>{
 
             </div>
 
-            <div className='grid sm:grid-cols-2 md:grid-cols-m gap-4 p-16 m-4'>
+            <div className='grid sm:grid-cols-2 md:grid-cols-m gap-4 p-16 m-4 '>
                 <div className='container p-2'>
-                    <img src={a1} alt='/' />
+                    <a href="https://akshupdf.github.io/asquare/"><img src={a1} alt='/' className='hover:scale-125 ease-in-out duration-300'  href="https://www.w3schools.com" /></a>
                 </div>
                 <div className='container p-2'>
-                    <img src={a2} alt='/' />
+                <a href="https://akshupdf.github.io/asquare/"><img src={a2} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
                 </div>
                 <div className='container p-2 '>
-                    <img src={chat} alt='/' />
+                    <img src={chat} alt='/' className='hover:scale-125 ease-in-out duration-300' />
                 </div>
                 <div className='container p-2'>
-                    <img src={chat1} alt='/' />
+                    <img src={chat1} alt='/' className='hover:scale-125 ease-in-out duration-300' />
                 </div>
 
             </div>
