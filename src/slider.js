@@ -30,9 +30,9 @@ function Slider() {
   };
 
   return (
-    <div className='h-auto  text-white'>
+    <div name='hobbies' className='h-auto  text-white'>
         <h1 className='p-16 text-3xl text-center bold'>Things I Enjoy Other Than Work</h1>
-    <div className='m-6'>
+    <div className='m-6 h-[600px]'>
       {images.map((item, index) => {
         return (
           <div
@@ -49,11 +49,11 @@ function Slider() {
             >
               <FiChevronLeft />
             </button>
-            <div className=' w-full h-[400px]'>
+            <div className=' w-200px h-[400px]'>
               <img
                 src={item}
                 alt='landscape'
-                className=' object-cover w-full h-[400px] px-6'
+                className=' object-cover w-800px h-[400px] p-4 hover:scale-150 ease-in-out duration-300'
               />
               
             </div>
@@ -67,6 +67,7 @@ function Slider() {
         );
       })}
     </div>
+    <hr></hr>
     </div>
   );
 }
