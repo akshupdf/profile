@@ -31,7 +31,7 @@ const Project = () =>{
                 <div className='container p-4 '>
                     <img src={chat2} alt='/' className='hover:scale-125 ease-in-out duration-300' />
 
-            <div className='grid sm:grid-cols-2 md:grid-cols-m gap-4 p-16 m-4 '>
+            {/* <div className='grid sm:grid-cols-2 md:grid-cols-m gap-4 p-16 m-4 '>
                 <div className='container p-2'>
                     <a href="https://akshupdf.github.io/asquare/"><img src={a1} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
                 </div>
@@ -46,7 +46,7 @@ const Project = () =>{
 
                 </div>
 
-            </div>
+            </div> */}
             <hr></hr>
             
         </div>

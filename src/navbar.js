@@ -21,7 +21,7 @@ const Navbar = () => {
 
   <h1 className='w-auto text-3xl font-bold  '>Akshupdf </h1>
 
-  <h1 className='w-auto text-3xl font-bold  '>AKSHUPDF </h1>
+
 
       <ul className='hidden md:flex cursor-pointer'>
         <li className='p-4'><Link to="home" smooth={true} offset={50} duration={500} > Home</Link> </li>
@@ -38,8 +38,7 @@ const Navbar = () => {
 
     <h1 className='w-full text-3xl font-bold  text-[#808080]'>Akshupdf </h1>
 
-    <h1 className='w-full text-3xl font-bold  text-[#808080]'>AKSHUPDF </h1>
-
+   
       <ul className=  ' pt-10'>
       <li className='p-4 border-b border-[#808080]'><Link onClick={handleClose} to="home" smooth={true} offset={50} duration={500} > Home</Link></li>
         <li className='p-4 border-b border-[#808080]'><Link onClick={handleClose} to="project" smooth={true} offset={50} duration={500} > Projects</Link></li>
