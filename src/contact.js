@@ -23,7 +23,7 @@ const Contact = () => {
             </div>
             <br></br>
             <hr></hr>
-            <h1 className="p-2 items-center">Akshupdf © 2022</h1> 
+            <h1 className="p-2 items-center">Akshupdf © 2023</h1> 
         </div>
     )
 
