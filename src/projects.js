@@ -6,6 +6,7 @@ import chat1 from './images/scroll.jpg'
 import chat2 from './images/login.png'
 import lanka from './images/lanka.jpg'
 import welcome from './images/welcome.jpg'
+import cart from './images/cart.jpg'
 
 
 const Project = () =>{
@@ -23,6 +24,9 @@ const Project = () =>{
                 </div>
                 <div className='container p-4'>
                    <a href="https://lanka-r498.onrender.com/"><img src={lanka} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
+                </div>
+                <div className='container p-4'>
+                   <a href="https://cartdemoo.netlify.app/"><img src={cart} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
                 </div>
                 <div className='container p-4'>
                    <a href="https://welcomeappp.netlify.app/"><img src={welcome} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
