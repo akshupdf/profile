@@ -2,8 +2,7 @@ import React from 'react';
 import a1 from './images/acord.jpg'
 import a2 from './images/asquare.jpg'
 import chat from './images/gif.jpg'
-import chat1 from './images/scroll.jpg'
-import chat2 from './images/login.png'
+import chat1 from './images/akshupdfweb.jpg'
 import lanka from './images/lanka.jpg'
 import welcome from './images/welcome.jpg'
 import cart from './images/cart.jpg'
@@ -28,22 +27,24 @@ const Project = () =>{
                 <div className='container p-4'>
                    <a href="https://cartdemoo.netlify.app/"><img src={cart} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
                 </div>
+                <div className='container p-4 '>
+                 <a href="https://akshupdfweb.netlify.app/">  <img src={chat1} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
+                </div>
+                <div className='container p-4'>
+                   <a href="https://tempn.netlify.app/"><img src={chat} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
+                </div>
                 <div className='container p-4'>
                    <a href="https://welcomeappp.netlify.app/"><img src={welcome} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
                 </div>
                 <div className='container p-4'>
                 <a href="https://akshupdf.github.io/asquare/"><img src={a2} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
                 </div>
-                <div className='container p-4'>
-                   <a href="https://tempn.netlify.app/"><img src={chat} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
-                </div>
-                <div className='container p-4 '>
-                    <img src={chat1} alt='/' className='hover:scale-125 ease-in-out duration-300' />
-                </div>
-                <div className='container p-4 '>
+                
+                 
+              {/*  <div className='container p-4 '>
                     <img src={chat2} alt='/' className='hover:scale-125 ease-in-out duration-300' />
 
-            {/* <div className='grid sm:grid-cols-2 md:grid-cols-m gap-4 p-16 m-4 '>
+            <div className='grid sm:grid-cols-2 md:grid-cols-m gap-4 p-16 m-4 '>
                 <div className='container p-2'>
                     <a href="https://akshupdf.github.io/asquare/"><img src={a1} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
                 </div>
@@ -58,10 +59,10 @@ const Project = () =>{
 
                 </div>
 
-            </div> */}
+            </div> 
             <hr></hr>
             
-        </div>
+        </div> */}
         </div>
         </div>
         
