@@ -6,7 +6,7 @@ import chat1 from './images/akshupdfweb.jpg'
 import lanka from './images/lanka.jpg'
 import welcome from './images/welcome.jpg'
 import cart from './images/cart.jpg'
-
+import chat2 from './images/chat3.jpg'
 
 const Project = () =>{
 
@@ -29,6 +29,9 @@ const Project = () =>{
                 </div>
                 <div className='container p-4 '>
                  <a href="https://akshupdfweb.netlify.app/">  <img src={chat1} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
+                </div>
+                <div className='container p-4 '>
+                 <a href="https://shoemania.netlify.app/">  <img src={chat2} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
                 </div>
                 <div className='container p-4'>
                    <a href="https://tempn.netlify.app/"><img src={chat} alt='/' className='hover:scale-125 ease-in-out duration-300' /></a>
