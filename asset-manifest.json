@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.05dbbf3c.css",
-    "main.js": "/profile/static/js/main.f7512fb3.js",
+    "main.css": "/profile/static/css/main.2ea00c51.css",
+    "main.js": "/profile/static/js/main.2e0ce9c2.js",
     "static/media/trek.jpg": "/profile/static/media/trek.0d9a7818b43f9cfd3695.jpg",
     "static/media/lanka.jpg": "/profile/static/media/lanka.7799441516ca3f1b45bc.jpg",
     "static/media/asquare.jpg": "/profile/static/media/asquare.8403632db2777102b56d.jpg",
@@ -9,17 +9,18 @@
     "static/media/gif.jpg": "/profile/static/media/gif.f4b5610b8cca213b6be9.jpg",
     "static/media/book.jpg": "/profile/static/media/book.e0bf7a9fc22bc55de8e6.jpg",
     "static/media/cart.jpg": "/profile/static/media/cart.d785f5365a86eeb90225.jpg",
+    "static/media/chat3.jpg": "/profile/static/media/chat3.d311d33d4d93f150ab83.jpg",
     "static/media/akshupdfweb.jpg": "/profile/static/media/akshupdfweb.a7f93db0c80e653bb020.jpg",
     "static/media/game.jpg": "/profile/static/media/game.c4fc3995accd7481d960.jpg",
     "static/media/welcome.jpg": "/profile/static/media/welcome.d7a26c08761ebd9d5c83.jpg",
     "static/media/pic.jpg": "/profile/static/media/pic.6dda35476a1e20b84148.jpg",
     "index.html": "/profile/index.html",
-    "static/media/index.js": "/profile/static/media/index.adca9250fba60251deae.js",
-    "main.05dbbf3c.css.map": "/profile/static/css/main.05dbbf3c.css.map",
-    "main.f7512fb3.js.map": "/profile/static/js/main.f7512fb3.js.map"
+    "static/media/index.js": "/profile/static/media/index.9011c6b325fe7b232949.js",
+    "main.2ea00c51.css.map": "/profile/static/css/main.2ea00c51.css.map",
+    "main.2e0ce9c2.js.map": "/profile/static/js/main.2e0ce9c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.05dbbf3c.css",
-    "static/js/main.f7512fb3.js"
+    "static/css/main.2ea00c51.css",
+    "static/js/main.2e0ce9c2.js"
   ]
 }
